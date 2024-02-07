@@ -1,0 +1,116 @@
+
+#title1{ 
+    position: fixed; 
+    top: 0%; 
+    left: 38%;}
+
+div{
+    width: 220px;
+    height: 150px;
+}
+.nota1 {
+    background-color: yellow; 
+    position: fixed; 
+    top: 21%; 
+    left: 20%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+
+.nota1-2 {
+   
+    background-color: yellow; 
+    position: fixed; 
+    top: 21%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+
+.nota1-3 {
+   
+    background-color: yellow; 
+    position: fixed; 
+    top: 21%; 
+    left: 80%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+#title2{ 
+    position: fixed; 
+    top: 30%; 
+    left: 40%;
+   
+}
+.nota2 {
+    background-color: yellow; 
+    position: fixed; 
+    top: 50%; 
+    left: 20%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+
+.nota2-2 {
+   
+    background-color: yellow; 
+    position: fixed; 
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+
+.nota2-3 {
+   
+    background-color: yellow; 
+    position: fixed; 
+    top: 50%; 
+    left: 80%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+#title3{
+    position: fixed; 
+    top: 59%; 
+    left: 45%;  
+}
+
+.nota3 {
+    background-color: yellow; 
+    position: fixed; 
+    top: 80%; 
+    left: 20%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+
+.nota3-2 {
+   
+    background-color: yellow; 
+    position: fixed; 
+    top: 80%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+
+.nota3-3 {
+   
+    background-color: yellow; 
+    position: fixed; 
+    top: 80%; 
+    left: 80%;
+    transform: translate(-50%, -50%);
+    border-radius: 10%;
+}
+footer{
+
+    position: fixed; 
+    top: 95%; 
+    left: 20%; 
+    background-color: cornflowerblue;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
